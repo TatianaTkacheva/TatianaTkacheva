@@ -8,7 +8,7 @@ On my GitHub page, you may find some of my projects based on my academic researc
 
 I am currently looking for opportunities to transfer my skills and expertise in product analytics, so if you hear of any opportunities, please let me know.
 
-👉 You may contact me: [Email](mailto:tkacheva.tatyana@gmail.com) · [GitHub](https://github.com/TatianaTkacheva) · [LinkedIn](https://www.linkedin.com/in/tkacheva) · [Telegram](https://t.me/tak_a_cho) 
+👉 You may contact me: [Email](mailto:tkacheva.tatyana@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tkacheva) · [Telegram](https://t.me/tak_a_cho) 
 
 
 ## 💼 Languages and tools
