@@ -11,7 +11,7 @@ I am currently looking for opportunities to transfer my skills and expertise in 
 👉 You may contact me via: 📩 [Email](mailto:tkacheva.tatyana@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/tkacheva) · 💬 [Telegram](https://t.me/tak_a_cho) 
 
 
-## 💼 Selected languages and tools
+## Selected languages and tools
 <br />
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" /> 
