@@ -8,10 +8,10 @@ On my GitHub page, you may find some of my projects based on my academic researc
 
 I am currently looking for opportunities to transfer my skills and expertise in product analytics, so if you hear of any opportunities, please let me know.
 
-👉 You may contact me: [Email](mailto:tkacheva.tatyana@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tkacheva) · [Telegram](https://t.me/tak_a_cho) 
+👉 You may contact me via: 📩 [Email](mailto:tkacheva.tatyana@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/tkacheva) · 💬 [Telegram](https://t.me/tak_a_cho) 
 
 
-## 💼 Languages and tools
+## 💼 Selected languages and tools
 <br />
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" /> 
@@ -19,11 +19,12 @@ I am currently looking for opportunities to transfer my skills and expertise in 
 <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" />
 <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
 <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff" />
 <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter" />
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" />
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" />
 <img src="https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff" />
     </div>
