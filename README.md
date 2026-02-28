@@ -2,7 +2,7 @@
 
 ## I'm Tatiana Tkacheva
 
-I am a **data analyst** with a PhD in Social Sciences 👩‍🎓 and **8+ years of experience** in academic research and analysis. I am also an **ex-educator** with more than **~300 students** whom I have taught the basics of data analysis and statistics, R coding, social sciences and politics concepts, and fundamentals of the resarch workflow. 
+I am a **data analyst** with a PhD in Social Sciences 👩‍🎓 and **8+ years of experience** in research and data analysis. I am also an **ex-educator** with more than **~300 students** whom I have taught the basics of data analysis and statistics, R coding, social sciences and politics concepts, and fundamentals of the resarch workflow. 
 
 On my GitHub page, you may find some of my projects based on my academic research work, as well as side initiatives to dive more into applied analytics and business. 
 
