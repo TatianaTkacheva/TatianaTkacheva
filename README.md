@@ -14,6 +14,8 @@ It's important to me to work in a team where I can openly discuss ideas and arti
 
 On my GitHub page, you may find some of my projects based on my academic research work, as well as side initiatives to dive more into applied analytics and business. 
 
+## My Projects
+
 My repositories with selected analytical projects:
 
 | Repo | Description | Tools |
@@ -22,7 +24,9 @@ My repositories with selected analytical projects:
 |[dashboards](https://github.com/TatianaTkacheva/dashboards) | Collection of BI analytical projects for product cases | SQL, ClickHouse, Redash, Superset |
 |[etl-automation](https://github.com/TatianaTkacheva/etl-automation) | Collection of project cases with the ETL-pipelines and automation | Apache Airflow, Python, SQL, ClickHouse, Git |
 
+A list with my academic publications: [Google Scholar](https://scholar.google.com/citations?user=WFxVzCEAAAAJ&hl=en)
 
+## Contacts
 👉 You may contact me via: 📩 [Email](mailto:tkacheva.tatyana@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/tkacheva) · 💬 [Telegram](https://t.me/tak_a_cho) 
 
 
