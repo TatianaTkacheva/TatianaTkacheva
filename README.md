@@ -11,9 +11,7 @@ My repositories with selected analytical projects:
 | Repo | Description | Tools |
 |------|-------------|-------|
 |[ab_tests](https://github.com/TatianaTkacheva/ab_tests) | Collection of the A/B and A/A test cases | Python, pandas, numpy, scipy, statsmodels, pandahouse, matplotlib, seaborn |
-|------|-------------|-------|
 |[dashboards](https://github.com/TatianaTkacheva/dashboards) | Collection of BI analytical projects for product cases | SQL, ClickHouse, Redash, Superset |
-|------|-------------|-------|
 |[etl-automation](https://github.com/TatianaTkacheva/etl-automation) | Collection of project cases with the ETL-pipelines and automation | Apache Airflow, Python, SQL, ClickHouse, Git |
 
 I am currently looking for opportunities to transfer my skills and expertise in product analytics, so if you hear of any opportunities, please let me know.
