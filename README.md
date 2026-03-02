@@ -1,6 +1,6 @@
 # Hey there and welcome 👋
 
-## I'm Tatiana Tkacheva
+## About me
 
 I am a **data analyst** with a PhD in Social Sciences 👩‍🎓 and **3+ years of experience** in research and data analysis. I'm experienced in working with full-cycle analytical projects: from research design and data collection to presenting results to steakholders. I chose analytics because I love solving problems at the intersection of logic, creativity, and live communication: formulating hypotheses, seeking insights from data, and explaining them to the team.
 
