@@ -2,7 +2,15 @@
 
 ## I'm Tatiana Tkacheva
 
-I am a **data analyst** with a PhD in Social Sciences 👩‍🎓 and **3+ years of experience** in research and data analysis. I am also an **ex-educator** with more than **~300 students** whom I have taught the basics of data analysis and statistics, R coding, social sciences and politics concepts, and fundamentals of the resarch workflow. 
+I am a **data analyst** with a PhD in Social Sciences 👩‍🎓 and **3+ years of experience** in research and data analysis. I'm experienced in working with full-cycle analytical projects: from research design and data collection to presenting results to steakholders. I chose analytics because I love solving problems at the intersection of logic, creativity, and live communication: formulating hypotheses, seeking insights from data, and explaining them to the team.
+
+I am also an **ex-educator** with more than **~300 students** whom I have taught the basics of data analysis and statistics, R coding, social sciences and politics concepts, and fundamentals of the resarch workflow. 
+
+Now I'm looking for opportunities to transfer my experience to product analytics. I want to go beyond simply finding patterns, and see how my findings impact real products and team decisions.
+
+To gain a systematic understanding of product analytics, I completed training at [Karpov.courses](https://karpov.courses/), participated in the [Women in Tech](https://women-in-tech.ru/mentoring/) mentoring program, follow industry blogs, and participate in professional meetups. This helps me learn from practitioners and stay up-to-date on current developments in the industry.
+
+It's important to me to work in a team where I can openly discuss ideas and articulate my position. I find it easy to find common ground with my colleagues, and I'm not afraid to ask questions and take responsibility for the outcome.
 
 On my GitHub page, you may find some of my projects based on my academic research work, as well as side initiatives to dive more into applied analytics and business. 
 
@@ -14,7 +22,6 @@ My repositories with selected analytical projects:
 |[dashboards](https://github.com/TatianaTkacheva/dashboards) | Collection of BI analytical projects for product cases | SQL, ClickHouse, Redash, Superset |
 |[etl-automation](https://github.com/TatianaTkacheva/etl-automation) | Collection of project cases with the ETL-pipelines and automation | Apache Airflow, Python, SQL, ClickHouse, Git |
 
-I am currently looking for opportunities to transfer my skills and expertise in product analytics, so if you hear of any opportunities, please let me know.
 
 👉 You may contact me via: 📩 [Email](mailto:tkacheva.tatyana@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/tkacheva) · 💬 [Telegram](https://t.me/tak_a_cho) 
 
